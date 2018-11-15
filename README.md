@@ -5,7 +5,7 @@
 
 ### 运行
 ```
-python ./douyin_ad.py
+python ./douyin-ad.py
 ```
 
 ### 注意
